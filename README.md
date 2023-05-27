@@ -180,15 +180,16 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output screen shots of proteus  :
  when pushbutton is off:
  
-[pbof.pdf](https://github.com/Harinimuthu17/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/files/11546964/pbof.pdf)
+![pb(of)](https://github.com/Harinimuthu17/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/130278614/c1764e87-da57-4e51-838f-b48574091ee3)
 
  when pushbutton is on:
  
- [pbon.pdf](https://github.com/Harinimuthu17/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/files/11546966/pbon.pdf)
+ ![pb(on)](https://github.com/Harinimuthu17/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/130278614/78aee343-8d2e-474e-b131-49ddd2ce1cd8)
+
 
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- [pblo.pdf](https://github.com/Harinimuthu17/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/files/11546968/pblo.pdf)
-
  
+![pdlo](https://github.com/Harinimuthu17/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/130278614/78b11eb6-b84d-4c0f-935f-60dbdcbd223f)
+
 ## Result :
 Interfacing a push button and interrupt genrateion is simulated using proteus 
